@@ -14,7 +14,7 @@ html,css,react,nodejs,git,github,docker,express,bootstrap,js
 
 - [Recipe Finder](https://github.com/devendrarawat-code/Recipe-finder): A web app that lets you discover recipes by simply entering an ingredient. Displays recipe images, full ingredient lists, and tutorial links. 🌟 1 star, Primary Language: CSS
 - [Netflix Signup and Front Page](https://github.com/devendrarawat-code/Netflix-signup-and-front-page): A responsive clone of Netflix's front page and sign-up screen. Features real-time form validation and a sleek UI. 🌟 0 stars, Primary Language: CSS
--[Employment Management System (React + LocalStorage)](https://github.com/devendrarawat-code/Employement-management-system):
+- [Employment Management System (React + LocalStorage)](https://github.com/devendrarawat-code/Employement-management-system):
 A task and employee management system built entirely with React.js and localStorage for data persistence. Features role-based access (Admin & Employee), task lifecycle tracking, and a responsive dashboard UI.
 🧑‍💼 Local-first, full-featured, and beginner-friendly.
 🌟 0 stars, Primary Language: JavaScript
