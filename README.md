@@ -1,42 +1,37 @@
-## 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devendra Rawat
+======================================================================================================================================
 
-I'm Devendra Rawat, a passionate developer with a love for creating innovative web applications. Always eager to learn and explore new technologies!
+Front-End Developer | React.js | JavaScript | CSS
+-------------------------------------------------
 
-## About Me
+I’m a dedicated Front-End Developer with a strong focus on crafting modern, responsive, and high-performance web interfaces. With hands-on experience in React.js, JavaScript (ES6+), HTML5, CSS3, and utility-first frameworks like Tailwind CSS, I specialize in translating UI/UX designs into clean, scalable, and maintainable code.
 
-I am a self-taught developer specializing in front-end technologies. Currently, I focus on building responsive and user-friendly applications. I enjoy collaborating on projects that challenge my skills and push the boundaries of what I can create.
+I believe that great front-end development goes beyond visuals—it's about building user-centered solutions that are fast, accessible, and intuitive. From component-driven architecture to seamless API integrations, I bring a balance of creativity and technical precision to every project I work on.
 
-## Skills & Technologies
+* 🌍  I'm based in Dehradun,Uttarakhand
+* ✉️  You can contact me at [devendrarawat9876@gmail.com](mailto:devendrarawat9876@gmail.com)
+* 🧠  I'm learning Next.js
+* 🤝  I'm open to collaborating on front-end development projects that involve building responsive and user-friendly web interfaces using React.js, Tailwind CSS, and modern JavaScript. I’m especially interested in contributing to open-source projects, UI/UX implementations, single-page applications, portfolio websites, admin dashboards, and performance optimization tasks. I enjoy working with teams that value clean code, creativity, and collaboration.
+* ⚡  Other ideas to include in this section (based on your personality or interests): Fun fact: “I enjoy redesigning real websites just for practice.” Learning in progress: “Currently exploring Next.js and motion design with Framer Motion.” Soft skills: “Strong believer in clear communication and collaborative coding.”
 
-html,css,react,nodejs,git,github,docker,express,bootstrap,js
-
-## Top Projects
-
-- [Recipe Finder](https://github.com/devendrarawat-code/Recipe-finder): A web app that lets you discover recipes by simply entering an ingredient. Displays recipe images, full ingredient lists, and tutorial links. 🌟 1 star, Primary Language: CSS
-- [Netflix Signup and Front Page](https://github.com/devendrarawat-code/Netflix-signup-and-front-page): A responsive clone of Netflix's front page and sign-up screen. Features real-time form validation and a sleek UI. 🌟 0 stars, Primary Language: CSS
-- [Employment Management System (React + LocalStorage)](https://github.com/devendrarawat-code/Employement-management-system):
-A task and employee management system built entirely with React.js and localStorage for data persistence. Features role-based access (Admin & Employee), task lifecycle tracking, and a responsive dashboard UI.
-🧑‍💼 Local-first, full-featured, and beginner-friendly.
-🌟 0 stars, Primary Language: JavaScript
+### Skills
 
 
-## GitHub Stats
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+</p>
 
-Public Repositories: 3 | Followers: 2 | Following: 3
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devendrarawat-code&show_icons=true&theme=radical)
+### Socials
 
-## Recent Activity
+<p align="left"> <a href="https://www.github.com/devendrarawat-code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/devendra-rawat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-Here are some of my latest GitHub activities:
+### Badges
 
-- Pushed changes to [Recipe Finder](https://github.com/devendrarawat-code/Recipe-finder) on June 10, 2025.
-- Created the repository [Netflix Signup and Front Page](https://github.com/devendrarawat-code/Netflix-signup-and-front-page) on May 29, 2025.
-- Updated README.md in [Netflix Signup and Front Page](https://github.com/devendrarawat-code/Netflix-signup-and-front-page) on May 29, 2025.
+<b>My GitHub Stats</b>
 
-## Latest Blog Posts
+<a href="http://www.github.com/devendrarawat-code"><img src="https://github-readme-stats.vercel.app/api?username=devendrarawat-code&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devendrarawat-code's GitHub stats" /></a>
 
-Currently, I don't have any blog posts to share. Stay tuned for updates!
+<a href="http://www.github.com/devendrarawat-code"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrarawat-code&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Connect with Me
- linkedIn: https://www.linkedin.com/in/devendra-rawat
+<a href="https://github.com/devendrarawat-code" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrarawat-code&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
